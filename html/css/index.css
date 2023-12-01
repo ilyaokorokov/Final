@@ -1,0 +1,27 @@
+.container {
+width: 500px;
+height: 250px;
+margin-left: auto;
+margin-right: auto;
+background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+}
+ul {
+	margin-left: auto;
+    margin-right: auto;
+    width: 10em
+}
+body {
+	 background-color: #000000;
+	 color: aqua;
+}
+h3 {
+	text-align: center;
+	padding-top: 20px;
+	color:#121312;
+}
+a {
+	 color: #ecec16
+}
+.main{
+	text-align: center;
+}
